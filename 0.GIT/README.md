@@ -15,7 +15,7 @@
 | 300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 | 300117444 | Abib, `Idir`                       |                                                     |
 | 300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)           |
-| 300117782 | Njia Yimbou, Raissa `Erna`         |                                                     |
+| 300117782 | Njia Yimbou, Raissa `Erna`         | [Raissayimbou](https://github.com/Raissayimbou)     |
 | 300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
 | 300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
