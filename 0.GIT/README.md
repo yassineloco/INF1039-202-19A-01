@@ -3,7 +3,7 @@
 | Boréal:id:| Nom, Prénoms .                     |  Github :id:                                        |
 |-----------|------------------------------------|-----------------------------------------------------| 
 | 300065026 | Rémy, `Joseph` Abner               |                                                     |
-| 300111824 | Mansiantima, Mayuma `Blevie`       |                                                     |
+| 300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
 | 300115065 | Fadde, `Abdelkrim`                 |                                                     |
 | 300115140 | Sadi-Bourouih, Mouloud `Zack`      |                                                     |
 | 300116370 | Ouahhabi, `Khalid`                 |                                                     |
