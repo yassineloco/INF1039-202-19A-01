@@ -4,7 +4,7 @@
 |-----------|------------------------------------|-----------------------------------------------------| 
 | 300065026 | Rémy, `Joseph` Abner               |                                                     |
 | 300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
-| 300115065 | Fadde, `Abdelkrim`                 |                                                     |
+| 300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 | 300115140 | Sadi-Bourouih, Mouloud `Zack`      |                                                     |
 | 300116370 | Ouahhabi, `Khalid`                 |                                                     |
 | 300116593 | Hamid, Adam `Souleymane`           | [amirali175](https://github.com/amirali175)         |
