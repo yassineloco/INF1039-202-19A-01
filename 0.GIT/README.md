@@ -7,9 +7,9 @@
 | 300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 | 300115140 | Sadi-Bourouih, Mouloud `Zack`      |                                                     |
 | 300116370 | Ouahhabi, `Khalid`                 |                                                     |
-| 300116593 | Hamid, Adam `Souleymane`           | [amirali175](https://github.com/amirali175)         |
+| 300116593 | Hamid, Adam `Souleymane`           | [hamidmallim](https://github.com/hamidmallim)       |
 | 300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)           |
-| 300116685 | Abdullahi, `Amir` Ali              |                                                     |
+| 300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)         |
 | 300116973 | Lago Kamdem, `Nathalie`            |                                                     |
 | 300117178 | Ngaleu Kwayep, Willfrid `Boris`    |                                                     |
 | 300117314 | Giyahtazeh, `Morteza`              |                                                     |
