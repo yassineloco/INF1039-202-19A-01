@@ -1,6 +1,6 @@
 # Github
 
-| :id:      | Nom, Prénoms .                   |  Github :id:                                        |
+| Boréal:id:| Nom, Prénoms .                   |  Github :id:                                        |
 |-----------|----------------------------------|-----------------------------------------------------| 
 | 300065026 | Rémy, Joseph Abner               |                                                     |
 | 300111824 | Mansiantima, Mayuma Blevie       |                                                     |
