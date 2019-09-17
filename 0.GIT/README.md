@@ -20,3 +20,7 @@
 | 300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
 | 300118196 | Nguekam Ndjemou, Franck `Christin` |                                                     |
+
+| Boréal :x:| Nom, Prénoms .                     |  Github :id:                                        |
+|-----------|------------------------------------|-----------------------------------------------------| 
+| xxxxxxxxx | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
