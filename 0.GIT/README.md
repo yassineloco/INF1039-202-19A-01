@@ -11,7 +11,7 @@
 | 300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)           |
 | 300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)         |
 | 300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)         |
-| 300117178 | Ngaleu Kwayep, Willfrid `Boris`    |                                                     |
+| 300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)     |
 | 300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 | 300117444 | Abib, `Idir`                       |                                                     |
 | 300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)           |
