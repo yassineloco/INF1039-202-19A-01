@@ -21,6 +21,8 @@
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
 | 300118196 | Nguekam Ndjemou, Franck `Christin` |                                                     |
 
+# Non inscrit
+
 | Boréal :x:| Nom, Prénoms .                     |  Github :id:                                        |
 |-----------|------------------------------------|-----------------------------------------------------| 
 | xxxxxxxxx | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
