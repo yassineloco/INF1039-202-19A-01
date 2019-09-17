@@ -17,6 +17,6 @@
 | 300117705 | Archange, `Corlings`               |                                                     |
 | 300117782 | Njia Yimbou, Raissa `Erna`         |                                                     |
 | 300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
-| 300117806 | Garba Djibo, `Hassana`             |                                                     |
+| 300117806 | Garba Djibo, `Hassana`             | [djibo648][https://github.com/djibo648]             |
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
 | 300118196 | Nguekam Ndjemou, Franck `Christin` |                                                     |
