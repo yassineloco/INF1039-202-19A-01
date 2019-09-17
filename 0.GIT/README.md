@@ -3,6 +3,7 @@
 | Boréal:id:| Nom, Prénoms .                     |  Github :id:                                        |
 |-----------|------------------------------------|-----------------------------------------------------| 
 | 300065026 | Rémy, `Joseph` Abner               |                                                     |
+| 300111441 | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
 | 300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
 | 300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 | 300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                 |
@@ -20,9 +21,3 @@
 | 300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
 | 300118196 | Nguekam Ndjemou, Franck `Christin` |                                                     |
-
-# Non inscrits
-
-| Boréal :x:| Nom, Prénoms .                     |  Github :id:                                        |
-|-----------|------------------------------------|-----------------------------------------------------| 
-| xxxxxxxxx | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
