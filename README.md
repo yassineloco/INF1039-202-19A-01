@@ -10,7 +10,7 @@ Introduction a la programmation
 |--|--------|:------------------------|:----------------------------------------|:-----------------|
 | 1|19-09-04|[0.GIT](0.GIT)           | Introduction a la programmation         |                  |
 | 2|19-09-11|[1.Python](1.Python)     | Python                                  |                  |
-| 3|19-09-18|[2.REPL](2.REPL)         | REPL et CLI                             |                  |
+| 3|19-09-18|[2.REPL](2.REPL)         | REPL et CLI                             |  https://www.anaconda.com/distribution/ |
 | 4|19-09-25|[3.Notions](3.Notions)   |                                         |                  |
 | 5|19-10-02|                         |                                         |                  |
 | 6|19-10-09|[4.Vide](4.Vide)         |                                         |                  |
