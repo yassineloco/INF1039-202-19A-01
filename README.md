@@ -46,10 +46,10 @@ Introduction a la programmation
 
 # :five: References:
 
-|Site                                      | Lien                                         |  Commentaires    |
-|------------------------------------------|----------------------------------------------|------------------|
-| Essential Scala                          | https://underscore.io/books/essential-scala/ | :ledger: Book    |
-| Programming Paradigm                     | http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf |
+|Site                                       | Lien                                          |  Commentaires    |
+|-------------------------------------------|-----------------------------------------------|------------------|
+| Get Programming Learn to code with PYTHON | https://www.manning.com/books/get-programming | :ledger: Book    |
+| Programming Paradigm                      | http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf |
 
 
 # :six: [Glossaire](https://docs.scala-lang.org/glossary/):
