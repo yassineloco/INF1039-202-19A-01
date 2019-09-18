@@ -12,6 +12,7 @@
 | 300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)           |
 | 300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)         |
 | 300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)         |
+| 300117029 | Mayonga, Jordy Arni                |                                                     |
 | 300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)     |
 | 300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 | 300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)           |
@@ -20,4 +21,5 @@
 | 300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
 | 300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 | 300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   |                                                     |
+| 300118075 | Wafo, Martial Hermann              |                                                     |
 | 300118196 | Nguekam Ndjemou, Franck `Christin` |                                                     |
