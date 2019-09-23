@@ -2,7 +2,7 @@
 
 ## Installation
 
-[Intall](Install.md)
+[Install](Install.md)
 
 ## Evaluation
 
