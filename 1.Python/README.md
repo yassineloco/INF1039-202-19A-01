@@ -1,9 +1,5 @@
 # Python
 
-## Installation
-
-Suivre l'[Installation](images/Install.md)
-
 ## Evaluation
 
 Creér votre premier programme en Python :snake:
