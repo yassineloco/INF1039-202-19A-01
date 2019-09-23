@@ -5,7 +5,7 @@ Introduction a la programmation
 ## :one: [Devoirs](Devoirs)
 |No| Date   | Cours                           | Intitulé                                |  Commentaires    |
 |--|--------|:--------------------------------|:----------------------------------------|:-----------------|
-| 1|19-09-25|[1.Python](1.Python#evaluation)  | Mon premier programme en Python         |  Cliquer sur votre :id: pour v/rifier votre programme    |
+| 1|19-09-25|[1.Python](1.Python#evaluation)  | Mon premier programme en Python         |  Cliquer sur votre :id: pour vérifier votre programme    |
 
 
 
