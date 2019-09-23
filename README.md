@@ -3,9 +3,9 @@
 Introduction a la programmation
 
 ## :one: [Devoirs](Devoirs)
-|No| Date   | Cours                   | Intitulé                                |  Commentaires    |
-|--|--------|:------------------------|:----------------------------------------|:-----------------|
-| 2|19-09-11|[1.Python](1.Python#evaluation)     | Python                                  |                  |
+|No| Date   | Cours                           | Intitulé                                |  Commentaires    |
+|--|--------|:--------------------------------|:----------------------------------------|:-----------------|
+| 1|19-09-25|[1.Python](1.Python#evaluation)  | Python                                  |                  |
 
 
 
