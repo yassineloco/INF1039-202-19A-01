@@ -2,7 +2,7 @@
 
 ## Installation
 
-[Install](images/Install.md)
+Suivre l'[Installation](images/Install.md)
 
 ## Evaluation
 
