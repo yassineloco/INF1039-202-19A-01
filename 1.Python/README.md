@@ -1,21 +1,8 @@
-# Install
+# Python
 
-## Binaire
+## Installation
 
-https://www.anaconda.com/distribution/
-
-
-## Spyder
-
-![image](images/Spyder.png)
-
-
-## PyCharm
-
-https://www.anaconda.com/pycharm/
-
-![image](images/Install.png)
-
+[Intall](Install.md)
 
 ## Evaluation
 
@@ -45,3 +32,4 @@ Creér votre premier programme en Python :snake:
 |   20 |  [300118075](300118075.py) | :x:                |
 |   21 |  [300118196](300118196.py) | :x:                |
 |   22 |  [300114158](300114158.py) | :x:                |
+
