@@ -11,4 +11,4 @@ if (5%2 == 0):
   print ('ok')
 else:
   print ('Impair')
-      
+    
