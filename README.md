@@ -13,23 +13,23 @@ Introduction a la programmation
 
 ## :two: Elements de Performance
 
-|No| Date   | Cours                   | Intitulé                                |  Commentaires    |
-|--|--------|:------------------------|:----------------------------------------|:-----------------|
-| 1|19-09-04|[0.GIT](0.GIT)           | Introduction a la programmation         |                  |
-| 2|19-09-11|[1.Python](1.Python)     | Python                                  |                  |
-| 3|19-09-18|[2.REPL](2.REPL)         | REPL et CLI                             |  Chapitre 3      |
-| 4|19-09-25|[3.Notions](3.Notions)   |                                         |                  |
-| 5|19-10-02|                         |                                         |                  |
-| 6|19-10-09|[4.Vide](4.Vide)         |                                         |                  |
-| 7|19-10-16|[5.List](5.List)         |                                         |                  |
-| 8|19-10-23| Autumn Break            |                                         |                  |
-| 9|19-03-30|                         |                                         |                  |
-|10|19-03-12|[6.Tree](6.Tree)         |                                         |                  |
-|11|19-03-19|[7.Essential](7.Essential)|  Retour aux [3.Notions](3.Notions) essentielles |                  |
-|12|19-03-26|[8.Class](8.Class)       |                                         |                  |
-|13|19-04-02|                         |                                         |                  |
-|14|19-04-09|                         |                                         |                  |
-|15|19-04-16| Fin des cours           |                                         |                  |
+|No| Date   | Cours                    | Intitulé                                |  Commentaires    |
+|--|--------|:-------------------------|:----------------------------------------|:-----------------|
+| 1|19-09-04|[0.GIT](0.GIT)            | Introduction a la programmation         |                  |
+| 2|19-09-11|[1.Python](1.Python)      | Python                                  |                  |
+| 3|19-09-18|[2.REPL](2.REPL)          | REPL et CLI                             |  Chapitre 3      |
+| 4|19-09-25|[4.Variables](4.Variables)| Variables et expressions                |  Chapitre 4      |
+| 5|19-10-02|                          |                                         |                  |
+| 6|19-10-09|[4.Vide](4.Vide)          |                                         |                  |
+| 7|19-10-16|[5.List](5.List)          |                                         |                  |
+| 8|19-10-23| Autumn Break             |                                         |                  |
+| 9|19-03-30|                          |                                         |                  |
+|10|19-03-12|[6.Tree](6.Tree)          |                                         |                  |
+|11|19-03-19|[7.Essential](7.Essential)|                                         |                  |
+|12|19-03-26|[8.Class](8.Class)        |                                         |                  |
+|13|19-04-02|                          |                                         |                  |
+|14|19-04-09|                          |                                         |                  |
+|15|19-04-16| Fin des cours            |                                         |                  |
 
 
 ## :three: Concepts:
