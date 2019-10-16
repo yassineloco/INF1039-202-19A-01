@@ -27,6 +27,6 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   18 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 |   19 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a)           |
 |   20 |  300118075 | Wafo, `Martial` Hermann            | [martialo12](https://github.com/martialo12)         |
-|   21 |  300118196 | Nguekam Ndjemou, Franck Christin   | :x:                                                 |
+|   21 |  300118196 | Nguekam Ndjemou, `Franck` Christin | :x:                                                 |
 |   22 |  300114158 | Bounguab, `Yassine`                | :x:                                                 |
 
