@@ -26,8 +26,8 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   17 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissayimbou](https://github.com/Raissayimbou)     |
 |   18 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
 |   19 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
-|   20 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a)           |
+|   20 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a) :warning: |
 |   21 |  300118075 | Wafo, `Martial` Hermann            | [martialo12](https://github.com/martialo12)         |
 |   22 |  300118196 | Nguekam Ndjemou, `Franck` Christin | [ndjemou199](https://github.com/ndjemou199)         |
-|   23 |  300118524 | Ouro-Gouni, `Zouréni`              | :x:                                                 |
+|   23 |  300118524 | Ouro-Gouni, `Zouréni`              | [zoureni](https://github.com/zoureni)  :warning:    |
 
