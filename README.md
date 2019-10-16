@@ -26,7 +26,7 @@ Introduction a la programmation
 | 4|19-09-25|[4.Variables](4.Variables)| Variables et expressions, basic types   | Chapitre 4, 5     |
 | 5|19-10-02|                          |  PreTest                                |                   |
 | 6|19-10-09|[7.Strings](7.Strings)    |                                         | Chapitre 7, 8     |
-| 7|19-10-16|[8.Tuple](8.Tuple)        |                                         | Chapitre 9, 10, 11|
+| 7|19-10-16|[8.Tuples](8.Tuples)      |                                         | Chapitre 9, 10, 11|
 | 8|19-10-23| Autumn Break             |                                         |                   |
 | 9|19-03-30|                          |                                         |                   |
 |10|19-03-12|[6.Tree](6.Tree)          |                                         |                   |
