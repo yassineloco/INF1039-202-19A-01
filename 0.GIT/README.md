@@ -10,6 +10,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   01 |  300065026 | Rémy, `Joseph` Abner               | :x:                                                 |
 |   02 |  300111441 | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
 |   03 |  300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
+|   22 |  300114158 | Bounguab, `Yassine`                | :x:                                                 |
 |   04 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                 |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)             |
@@ -28,5 +29,5 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   19 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a)           |
 |   20 |  300118075 | Wafo, `Martial` Hermann            | [martialo12](https://github.com/martialo12)         |
 |   21 |  300118196 | Nguekam Ndjemou, `Franck` Christin | :x:                                                 |
-|   22 |  300114158 | Bounguab, `Yassine`                | :x:                                                 |
+|   23 |  300118524 | Ouro-Gouni, `Zouréni`              | :x:                                                 |
 
