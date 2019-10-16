@@ -10,7 +10,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   01 |  300065026 | Rémy, `Joseph` Abner               | :x:                                                 |
 |   02 |  300111441 | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
 |   03 |  300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
-|   22 |  300114158 | Bounguab, `Yassine`                | :x:                                                 |
+|   22 |  300114153 | Bounguab, `Yassine`                | :x:                                                 |
 |   04 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 |   05 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                 |
 |   06 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)             |
@@ -18,7 +18,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   08 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)           |
 |   09 |  300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)         |
 |   10 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)         |
-|   11 |  300117029 | Mayonga, Jordy Arni                | :x:                                                 |
+|   11 |  300117029 | Mayonga, `Jordy` Arni              | :x:                                                 |
 |   12 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)     |
 |   13 |  300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 |   14 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)           |
