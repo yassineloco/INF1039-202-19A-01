@@ -3,9 +3,10 @@
 Introduction a la programmation
 
 ## :one: [Devoirs](Devoirs)
-|No| Date   | Cours                           | Intitulé                                |  Commentaires    |
-|--|--------|:--------------------------------|:----------------------------------------|:-----------------|
-| 1|19-09-25|[1.Python](1.Python#evaluation)  | Mon premier programme en Python         |  Cliquer sur votre :id: pour vérifier votre programme    |
+|No| Date   | Cours                              | Intitulé                                |  Commentaires    |
+|--|--------|:-----------------------------------|:----------------------------------------|:-----------------|
+| 1|19-09-18|[0.GIT](0.GIT#Participation)        | Mon premier compte sur github .         |                  |
+| 1|19-09-25|[1.Python](1.Python#Participation)  | Mon premier programme en Python         |                  |
 
 
 
