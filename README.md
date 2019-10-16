@@ -8,6 +8,7 @@ Introduction a la programmation
 | 1|19-09-18|[0.GIT](0.GIT#Participation)                 | Mon premier compte sur github .         |                  |
 | 2|19-09-11|[1.Python](1.Python/Participation.md)        | Mon premier programme en Python         |                  |
 | 3|19-09-25|[4.Variables](4.Variables/Participation.md)  | Etudes sur les types et variables       |                  |
+| 4|19-10-09|[7.Strings](7.Strings/Participation.md)      | Etudes sur les chaines de caracteres    |                  |
 | 4|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)| Devoirs fin Unite 1                     |                  |
 
 
