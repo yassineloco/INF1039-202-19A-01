@@ -9,7 +9,7 @@ Votre programme en Python :snake:
 |   03 |  [300111824](300111824.py) | :heavy_check_mark: |
 |   04 |  [300114153](300114153.py) | :x:                |
 |   05 |  [300115065](300115065.py) | :heavy_check_mark: |
-|   06 |  [300115140](300115140.py) | :x:                |
+|   06 |  [300115140](300115140.py) | :heavy_check_mark: |
 |   07 |  [300116370](300116370.py) | :heavy_check_mark: |
 |   08 |  [300116593](300116593.py) | :heavy_check_mark: |
 |   09 |  [300116670](300116670.py) | :heavy_check_mark: |
