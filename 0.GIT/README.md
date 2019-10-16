@@ -18,7 +18,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   09 |  300116670 | Kouta-Deassio, Marie `Auriane`     | [Auriane25](https://github.com/Auriane25)           |
 |   10 |  300116685 | Abdullahi, `Amir` Ali              | [amirali175](https://github.com/amirali175)         |
 |   11 |  300116973 | Lago Kamdem, `Nathalie`            | [lagokamdem](https://github.com/lagokamdem)         |
-|   12 |  300117029 | Mayonga, `Jordy` Arni              | :x:                                                 |
+|   12 |  300117029 | Mayonga, `Jordy` Arni              | [Jordy3697](https://github.com/Jordy3697)           |
 |   13 |  300117178 | Ngaleu Kwayep, Willfrid `Boris`    | [Wilfridboris](https://github.com/Wilfridboris)     |
 |   14 |  300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 |   15 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)           |
