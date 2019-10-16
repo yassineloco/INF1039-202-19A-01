@@ -3,10 +3,11 @@
 Introduction a la programmation
 
 ## :one: [Devoirs](Devoirs)
-|No| Date   | Cours                                 | Intitulé                                |  Commentaires    |
-|--|--------|:--------------------------------------|:----------------------------------------|:-----------------|
-| 1|19-09-18|[0.GIT](0.GIT#Participation)           | Mon premier compte sur github .         |                  |
-| 1|19-09-25|[1.Python](1.Python/Participation.md)  | Mon premier programme en Python         |                  |
+|No| Date   | Cours                                       | Intitulé                                |  Commentaires    |
+|--|--------|:--------------------------------------------|:----------------------------------------|:-----------------|
+| 1|19-09-18|[0.GIT](0.GIT#Participation)                 | Mon premier compte sur github .         |                  |
+| 2|19-09-11|[1.Python](1.Python/Participation.md)        | Mon premier programme en Python         |                  |
+| 3|19-09-25|[4.Variables](4.Variables/Participation.md)  | Etudes sur les types et variables       |                  |
 
 
 
