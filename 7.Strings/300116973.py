@@ -22,3 +22,7 @@ print(s[5:7:1])
 
 # afficher la chaine de caractere a et m dans la chaine 'ma chaine'
 print(s[5:8:2])
+<<<<<<< HEAD
+
+=======
+>>>>>>> 1c7368ba282d86e0391c942b579648912fa656b8
