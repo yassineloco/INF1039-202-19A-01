@@ -23,7 +23,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   14 |  300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 |   15 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)           |
 |   16 |  300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)           |
-|   17 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissayimbou](https://github.com/Raissayimbou)     |
+|   17 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissayimbou](https://github.com/Raissa111)        |
 |   18 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
 |   19 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 |   20 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a)           |
