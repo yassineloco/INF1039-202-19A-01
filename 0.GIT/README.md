@@ -8,9 +8,9 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |:hash:| Boréal :id:| Nom, Prénoms .                     |  Github :id:                                        |
 |------|------------|------------------------------------|-----------------------------------------------------| 
 |   01 |  300065026 | Rémy, `Joseph` Abner               | :x:                                                 |
-|   02 |  300111441 | Sekou, `Fofana`                    | [Sekou16](https://github.com/Sekou16)               |
+|   02 |  300111441 | Fofana, `Sekou`                    | [Sekou16](https://github.com/Sekou16)               |
 |   03 |  300111824 | Mansiantima, Mayuma `Blevie`       | [300111824](https://github.com/300111824)           |
-|   04 |  300114153 | Bounguab, `Yassine`                | :x:                                                 |
+|   04 |  300114153 | Bounguab, `Yassine`                | [yassine2k](https://github.com/yassine2k)           |
 |   05 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)               |
 |   06 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                 |
 |   07 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)             |
@@ -23,7 +23,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   14 |  300117314 | Giyahtazeh, `Morteza`              | [morti747](https://github.com/morti747)             |
 |   15 |  300117444 | Abib, `Idir`                       | [dido05327](https://github.com/dido05327)           |
 |   16 |  300117705 | Archange, `Corlings`               | [playboikz](https://github.com/playboikz)           |
-|   17 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissayimbou](https://github.com/Raissayimbou)     |
+|   17 |  300117782 | Njia Yimbou, Raissa `Erna`         | [Raissa111](https://github.com/Raissa111)           |
 |   18 |  300117784 | Moyou Fotue, `Bertrand`            | [BertrandMoyou](https://github.com/BertrandMoyou)   |
 |   19 |  300117806 | Garba Djibo, `Hassana`             | [djibo648](https://github.com/djibo648)             |
 |   20 |  300117864 | M'biebeko-Ndoki, Kasay `Gabriel`   | [gabriel1a](https://github.com/gabriel1a)           |
