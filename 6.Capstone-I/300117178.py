@@ -11,4 +11,4 @@ minute=heures*60
 
 #afficher l'heure
 print(minute)
-print('heure=',minute)
+print('heure=',minute,'minute)
