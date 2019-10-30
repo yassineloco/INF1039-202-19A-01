@@ -4,7 +4,7 @@
 
 #Capstone 1 program convert hours to minute
 
-
+x = int(input('enter your hour: '))
 minutes_to_convert = 123
 hours_decimal = minutes_to_convert/60
 hours_part = int (hours_decimal)
