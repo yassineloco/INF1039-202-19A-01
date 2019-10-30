@@ -27,3 +27,13 @@ Votre programme en Python :snake:
 |   21 |  [300118075](300118075.py) | :heavy_check_mark: |
 |   22 |  [300118196](300118196.py) | :heavy_check_mark: |
 |   23 |  [300118524](300118524.py) | :x:                |
+
+## [Corrections](Corrections)
+
+* Exécuter le script de correction
+
+```
+$ sh notation.sh > Corrections/README.md 2>&1
+```
+
+ -- Rentrez le nombre d'heure plusieurs fois
