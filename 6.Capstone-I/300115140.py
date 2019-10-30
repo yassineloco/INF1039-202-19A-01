@@ -5,15 +5,15 @@
 #Capstone 1 program convert hours to minute
 
 x = int(input('enter your hour: '))
-minutes_to_convert = 123
-hours_decimal = minutes_to_convert/60
-hours_part = int (hours_decimal)
+#minutes_to_convert = 123
 
-minutes_decimal = hours_decimal-hours_part
-minutes_part = round(minutes_decimal*60)
 
+
+
+
+T = x*60
 print ("Hours")
-print (hours_part)
+
 print ("Minutes")
-print (minutes_part)
+print ("conversion de", x, "donne en minute", T, "min")
 
