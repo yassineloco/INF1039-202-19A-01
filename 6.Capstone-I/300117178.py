@@ -11,4 +11,8 @@ minute=heures*60
 
 #afficher l'heure
 print(minute)
+<<<<<<< HEAD
+print('heure=',minute)
+=======
 print('heure=',minute,'minute)
+>>>>>>> c8beda447fe67609b459b745f0ad587a2a338e4e
