@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 30 16:28:37 2019
+Created on Wed Oct 30 17:25:56 2019
 
-@author: corlings
+@author: zacks
 """
 
 num = int(input("entrer un nombre"))
