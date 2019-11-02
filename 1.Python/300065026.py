@@ -14,3 +14,4 @@ print(s[0])
 
 # afficher le caractere i
 print(s[5:8:2])
+ 
