@@ -1,4 +1,4 @@
-#convert hours to minutes
+# convert hours to minutes
 
 print("Please enter hours: 4")
 hours = int(4)
