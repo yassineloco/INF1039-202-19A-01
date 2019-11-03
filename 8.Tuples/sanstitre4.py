@@ -14,7 +14,6 @@ minutes = heures*60
 # affichage du resultat obtenue apres convertion
 
 print('la converstion de', heures, 'heures', 'egale:', minutes, 'minutes')
- 
 
 
 
