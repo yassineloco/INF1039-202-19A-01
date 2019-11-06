@@ -3,7 +3,7 @@
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-python: can't open file '300065026.py': [Errno 2] No such file or directory
+/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300065026.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
@@ -17,51 +17,53 @@ veuillez entrez votre heure: la convertion de 2 heurs egale:  120 minutes
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-python: can't open file '300111824.py': [Errno 2] No such file or directory
+entrer les heures:120
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-python: can't open file '300114153.py': [Errno 2] No such file or directory
+/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-python: can't open file '300115065.py': [Errno 2] No such file or directory
+Please enter hours: 4
+240  Minutes
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-python: can't open file '300115140.py': [Errno 2] No such file or directory
+enter your hour: Hours
+Minutes
+conversion de 2 donne en minute 120 min
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-1 hour
-60 minutes
-x is 1 hour or 60 minutes
+enter your hour: 120
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-python: can't open file '300116593.py': [Errno 2] No such file or directory
+entre lheure:  conversion de 2 donne en minute: 120 min
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
 ## Etudiant 300116670 
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
-python: can't open file '300116670.py': [Errno 2] No such file or directory
+entrez une valeur: 
+120
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
@@ -75,35 +77,28 @@ veuillez inserer un entier positif: la convertion de 2  heures en minute egale: 
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-Hours
-2
-Minutes
-3
-Hours
-3
-Minutes
-3
+/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116973.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-python: can't open file '300117029.py': [Errno 2] No such file or directory
+/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-python: can't open file '300117178.py': [Errno 2] No such file or directory
+VEUILLEZ ENTRER UNE HEURE SVPH= 120 MIN
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-python: can't open file '300117314.py': [Errno 2] No such file or directory
+entre le nombre d'heure120
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -118,7 +113,8 @@ veuiller introduire le nombre d'heures a convertir:2.0 heure(s) est egale a : 12
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-python: can't open file '300117705.py': [Errno 2] No such file or directory
+entre une valeur: 
+120
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -141,14 +137,14 @@ veillez entrer le nombre d'heure a convertir:
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-python: can't open file '300117806.py': [Errno 2] No such file or directory
+veuillez entrez votre heure: la converstion de 2 heures egale: 120 minutes
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-python: can't open file '300117864.py': [Errno 2] No such file or directory
+entrer les heures:120
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
@@ -177,6 +173,6 @@ enter your hours: the conversion of 2 in minutes give: 120 min
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-python: can't open file '300118524.py': [Errno 2] No such file or directory
+entrer le nombre d'heure le nombre de minutes est égale à  120
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
