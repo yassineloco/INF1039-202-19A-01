@@ -33,8 +33,16 @@ ETUDIANTS=(
 300118524
 )
    
-echo "# Participation "
+echo "# Participation"
+echo "\n## Légende\n"
 
+echo "| Signe              | Signification                 |"
+echo "|--------------------|-------------------------------|"
+echo "| :heavy_check_mark: | Prêt à être corrigé           |"
+echo "| :x:                | Projet inexistant             |"
+
+
+echo "\n## Résultat\n"
 echo "|:hash:| Boréal :id:                | :100:              |"
 echo "|------|----------------------------|--------------------|"
 
