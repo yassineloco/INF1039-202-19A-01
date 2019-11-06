@@ -1,13 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 30 15:57:26 2019
+Created on Wed Nov  6 16:43:16 2019
 
 @author: User
 """
-num =int(input('entrer un nombre'))
 
-if num > 0:
-  print('positif')  
+# condition 
 
+if (4 % 2 == 0):
+    
+    print("pair")
+    print( "ok" )
+    
 else:
-    print('negatif')
+    
+    print(" impair")
