@@ -38,7 +38,7 @@ echo "# Participation "
 echo "|:hash:| Boréal :id:                | :100:              |"
 echo "|------|----------------------------|--------------------|"
 
-i=0
+i=1
 
 
 for id in "${ETUDIANTS[@]}"
