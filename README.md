@@ -28,13 +28,13 @@ Introduction a la programmation
 | 6|19-10-09|[7.Strings](7.Strings)    |                                         | Chapitre 7, 8     |
 | 7|19-10-16|[8.Tuples](8.Tuples)      |                                         | Chapitre 9, 10, 11|
 | 8|19-10-23| Autumn Break             |                                         |                   |
-| 9|19-03-30|                          |                                         |                   |
-|10|19-03-12|[6.Tree](6.Tree)          |                                         |                   |
-|11|19-03-19|[7.Essential](7.Essential)|                                         |                   |
-|12|19-03-26|[8.Class](8.Class)        |                                         |                   |
-|13|19-04-02|                          |                                         |                   |
-|14|19-04-09|                          |                                         |                   |
-|15|19-04-16| Fin des cours            |                                         |                   |
+| 9|19-10-30|[9.Conditions](9.Conditions)|                                         |                   |
+|10|19-11-06|[6.Tree](6.Tree)          |                                         |                   |
+|11|19-11-13|[7.Essential](7.Essential)|                                         |                   |
+|12|19-11-20|[8.Class](8.Class)        |                                         |                   |
+|13|19-11-27|                          |                                         |                   |
+|14|19-12-04|                          |                                         |                   |
+|15|19-12-11| Fin des cours            |                                         |                   |
 
 
 ## :three: Concepts:
