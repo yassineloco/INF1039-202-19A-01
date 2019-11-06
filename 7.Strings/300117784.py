@@ -1,22 +1,52 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 28 15:12:32 2019
+Created on Mon Oct 28 15:33:57 2019
 
 @author: user
 """
+# Rechercher la le charactère 'e' dans la vriable who
+who = "io io stesso e io"
+position = who.find('e')
+# imprimer la longueur de la chaine de charactère who
+print(len(who))
 
-# creer une variable s contenant la chaine 'ma chaine'
-s = 'ma chaine'
-print(s)
+print('e se trouve à la position: {}'.format(position))
 
-# Afficher le premier caractere
-print(s[0])
+# une autre chaine de charactère
+fruit = "pomme"
 
-# Afficher le caractere 'i'
-print(s[6])
+# imprimer le nombre de fois que le charactèrère 'm' apparait das fruit
+print(fruit.count('m'))
 
-# afficher la chaine de caractere 'ai' dans la chaine 'ma chaine'
-print(s[5:7:1])
+# imprimer la chaine decharactère 'poire' en remplaçant les lettres das fruit
+print(fruit.replace('mm', 'ir'))
 
-# afficher la chaine de caractere 'an' dans la chaine 'ma chaine'
-print(s[5:8:2])
+# Imprimer la concatenation de 'Raptors' et 'Golden State Warriors' '
+concat = 'Raptors' + 'vs' + 'Golden State Warriors'
+print(concat)
+
+# tuples t1 vide
+t1 = ()
+print(t1)
+
+# Tuple t2 est une paire
+t2 = (4, 5)
+print(t2)
+
+# tuple t3 une paire de type différent
+
+t3 = ('a', 2)
+print(t3)
+
+# tuple t4 un tio de types différents
+t4 = ('a1', 2.5, False)
+
+print(t4)
+
+# imprimer la longueur de t4
+print(len(t4))
+
+# imprimer longueur d'un tuple vide
+print(len(())) 
+#imprimer la valeur de t4 à l'index
+print(t4[2])
