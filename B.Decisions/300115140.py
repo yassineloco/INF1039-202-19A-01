@@ -40,11 +40,11 @@ print ( 0 != 4 or (3/3 == 1 and (5 + 1 ) / 3 ==2))
 print ("a" in "code" or "b" in "python" and len("programme") == 7)
 
 x=2
-if (x % 2):
+if (x %  2 == 0):
     print ("pair")
-elif (x<0):
-        print("impaire negatif")
-else : ("impaire positif") 
+elif (x < 0):
+        print("impair negatif")
+else : ("impair positif") 
 
 
 
