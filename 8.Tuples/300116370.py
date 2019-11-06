@@ -48,9 +48,8 @@ print(t4)
 print(len(t4))  
 
 # imprimer la longueur d'un tuple vide
-print(len())
+print(len(()))
 
 # imprimer la valeur de t4 a l'index
-print( t4[2])
+print(t4[2])
 
-print( t4[2])
