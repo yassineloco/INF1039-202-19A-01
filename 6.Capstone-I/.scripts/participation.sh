@@ -44,8 +44,8 @@ i=0
 for id in "${ETUDIANTS[@]}"
 do
    FILE=${id}.py
-   OK="| ${i} | [${id}](${id}) | [:heavy_check_mark:](Corrections#etudiant-${id}) | "
-   KO="| ${i} | [${id}](${id}) | [:x:](Corrections#etudiant-${id})                | "
+   OK="| ${i} | [${id}](${FILE}) | [:heavy_check_mark:](Corrections#etudiant-${id}) | "
+   KO="| ${i} | [${id}](${FILE}) | [:x:](Corrections#etudiant-${id})                | "
    if [ -f "$FILE" ]; then
        echo ${OK}
    else
