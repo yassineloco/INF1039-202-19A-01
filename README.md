@@ -11,7 +11,7 @@ Introduction a la programmation
 | 4|19-10-09|[7.Strings](7.Strings/Participation.md)      | Etude sur les chaines de caracteres     |                  |
 | 5|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)| Devoirs fin Unite 1                     |                  |
 | 6|19-10-16|[8.Tuples](8.Tuples/Participation.md)        | Etude sur les tuples                    |                  |
-| 7|19-10-16|[9.Conditions](9.Conditions/Participation.md)| Etude sur la structure de controle      |                  |
+| 7|19-10-30|[9.Conditions](9.Conditions/Participation.md)| Etude sur la structure de controle      |                  |
 
 
 ## :two: Elements de Performance
