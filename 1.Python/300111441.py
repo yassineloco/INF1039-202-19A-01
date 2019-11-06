@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Éditeur de Spyder
+Created on Wed Nov  6 13:52:47 2019
 
-Ceci est un script temporaire.
+@author: skofo
+"""
 
-if (4% 2 == 0):
-    print('pair')
-    print('ok')
+if (5%2 == 0):
+  print ('pair')
+  print ('ok')
 else:
-    ('impair')
-    
-    
-    
+    print ('impair') 

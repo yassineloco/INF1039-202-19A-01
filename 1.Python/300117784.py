@@ -4,7 +4,7 @@
 
 Ceci est un script temporaire.
 @Autho: Bertrand
-
+"""
 
 if (4 % 2 == 0):
     
