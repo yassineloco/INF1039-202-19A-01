@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 30 12:19:54 2019
 
-@author: K-D Marie Auriane
+@author: kdmar
 """
 
 #programme pour convertir les heures en minute
