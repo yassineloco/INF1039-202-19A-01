@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 29 15:14:41 2019
+Created on Wed Oct 30 16:17:10 2019
 
 @author: User
 """
-# convertir heure en minute
 
-heure=int(input('entrer le nombre d\'heure: \n'))
+num =int (input("entrer un nombre"))
 
-minute=heure*60
-
-print(minute)
+if num > 0 :
+    
+    print("positif")
+    
+else:
+    
+    print ("negatif")
