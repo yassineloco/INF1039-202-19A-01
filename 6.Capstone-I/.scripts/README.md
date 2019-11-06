@@ -5,5 +5,5 @@ Lancer la notation
  -- Rentrez le nombre d'heure plusieurs fois
 
 ```
-$ sh .scripts/notation.sh > Corrections/README.md 2>&1
+$ sh .scripts/notation.sh > Correction.md 2>&1
 ```
