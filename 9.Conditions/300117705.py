@@ -9,4 +9,4 @@ num = int(input("entrer un nombre"))
 if num > 0:
     print("positif")
 else:
-    print("negatif")
+    print("negatif") 

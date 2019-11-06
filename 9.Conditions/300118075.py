@@ -1,12 +1,13 @@
 """
-author@: martialo12
+Created on Wed Oct 30 16:14:14 2019
 
-conditions
+@author: Martial
 """
 
-x = int(input('entrez un nombre: \n'))
+num = int(input("entrer un nombre:"))
 
-if (x > 0):
-    print('{} est un nombre positif \n'.format(x))
+if num > 0:
+    print("positif")
 else:
-   print('{} est un nombre negatif \n'.format(x))
+    print("negatif")
+

@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 30 13:41:21 2019
+Created on Wed Nov  6 14:28:07 2019
 
-@author: Nathalie
+@author: dell
 """
 
-num = int(input("Enter a number:"))
+# afficer une valeur
+x = int(input('entrer un nombre: '))
 
-if num > 0:
-    print ("number is positive")
-else :
-    print ("finished comparing num to 0")
-    
+if (x < 0):
+    print('x est negatif')    
+else:
+     print('x est positif')

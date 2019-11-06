@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 30 10:55:05 2019
+## conversion des heures en minutes
 
-@author: willfrid boris
-"""
+## entrer l'heure
+x=int(input('VEUILLEZ ENTRER UNE HEURE SVP\n'))
 
-#insere l'heure a convertir
-heures=int(input('inserer heure'))
-minute=heures*60
+##heure en minute
+r=x*60
 
-#afficher l'heure
-print(minute)
-print('heure=',minute,'minute)
+##affiche en minute
+print('H=',r,'MIN')
+
+
+

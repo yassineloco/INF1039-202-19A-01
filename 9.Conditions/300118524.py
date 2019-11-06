@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 30 14:38:18 2019
+Created on Wed Nov  6 14:27:30 2019
 
 @author: zoureni
 """
 
-num = int(input("Entrer un numéro:"))
-
-if num > 0:
-    print("nombre positif")
+age = int(input("entrer votre age: "))
+#condition
+if age >= 18: 
+    print("Vous êtes majeur")
 else:
-    print("nombre négatif")
+    print("Vous êtes mineur")
