@@ -1,7 +1,8 @@
-
+# -*- coding: utf-8 -*-
+"""
 Created on Wed Nov  6 14:28:07 2019
 
-@author: nathalie
+@author: dell
 """
 
 # afficer une valeur
