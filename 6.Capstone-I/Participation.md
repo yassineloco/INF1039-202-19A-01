@@ -30,10 +30,3 @@ Votre programme en Python :snake:
 
 ## [Corrections](Corrections)
 
-* Exécuter le script de correction
-
-```
-$ sh notation.sh > Corrections/README.md 2>&1
-```
-
- -- Rentrez le nombre d'heure plusieurs fois

@@ -10,14 +10,14 @@
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-veuillez entrez votre heure: la convertion de 2 heurs egale:  120 minutes
+veuillez entrez votre heure: la convertion de 3 heurs egale:  180 minutes
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-entrer les heures:120
+entrer les heures:180
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
@@ -41,21 +41,21 @@ Please enter hours: 4
 ```
 enter your hour: Hours
 Minutes
-conversion de 2 donne en minute 120 min
+conversion de 3 donne en minute 180 min
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-enter your hour: 120
+enter your hour: 180
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-entre lheure:  conversion de 2 donne en minute: 120 min
+entre lheure:  conversion de 3 donne en minute: 180 min
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -63,14 +63,14 @@ entre lheure:  conversion de 2 donne en minute: 120 min
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
 entrez une valeur: 
-120
+180
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-veuillez inserer un entier positif: la convertion de 2  heures en minute egale:  120 min
+veuillez inserer un entier positif: la convertion de 3  heures en minute egale:  180 min
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -91,14 +91,14 @@ veuillez inserer un entier positif: la convertion de 2  heures en minute egale: 
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-VEUILLEZ ENTRER UNE HEURE SVPH= 120 MIN
+VEUILLEZ ENTRER UNE HEURE SVPH= 180 MIN
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-entre le nombre d'heure120
+entre le nombre d'heure180
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -106,7 +106,7 @@ entre le nombre d'heure120
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
 Bienvenue au programe de conversion des heures en minutes
-veuiller introduire le nombre d'heures a convertir:2.0 heure(s) est egale a : 120.0 minutes
+veuiller introduire le nombre d'heures a convertir:3.0 heure(s) est egale a : 180.0 minutes
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -114,7 +114,7 @@ veuiller introduire le nombre d'heures a convertir:2.0 heure(s) est egale a : 12
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
 entre une valeur: 
-120
+180
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -122,7 +122,7 @@ entre une valeur:
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
 entrer le nombre d'heure: 
-120
+180
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -130,21 +130,21 @@ entrer le nombre d'heure:
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
 veillez entrer le nombre d'heure a convertir:
-120
+180
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-veuillez entrez votre heure: la converstion de 2 heures egale: 120 minutes
+veuillez entrez votre heure: la converstion de 3 heures egale: 180 minutes
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-entrer les heures:120
+entrer les heures:180
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
@@ -159,20 +159,20 @@ Welcome in hours_to_minutes programm:
 
 
 Please eenter the number of hours you would like to change in minutes:
-2 hours is equal to 120 minutes
+3 hours is equal to 180 minutes
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-enter your hours: the conversion of 2 in minutes give: 120 min
+enter your hours: the conversion of 3 in minutes give: 180 min
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-entrer le nombre d'heure le nombre de minutes est égale à  120
+entrer le nombre d'heure le nombre de minutes est égale à  180
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
