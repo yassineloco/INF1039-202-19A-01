@@ -1,6 +1,6 @@
 # Ma variable x en memoire
 
-Type Inference
+#Type Inference
 
 x = 1
 print(2 * x)
