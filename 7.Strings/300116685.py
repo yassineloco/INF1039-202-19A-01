@@ -5,7 +5,7 @@ Created on Wed Oct  9 15:46:07 2019
 @author: Amir
 """
 
-creer une variable  s contenant le chaine
+#creer une variable  s contenant le chaine
 s= 'ma chaine' 
 print(s)
 
