@@ -7,31 +7,29 @@ Introduction a la programmation
 |--|--------|:--------------------------------------------|:----------------------------------------|:-----------------|
 | 1|19-09-18|[0.GIT](0.GIT#Participation)                 | Mon premier compte sur github .         |                  |
 | 2|19-09-11|[1.Python](1.Python/Participation.md)        | Mon premier programme en Python         |                  |
-| 3|19-09-25|[4.Variables](4.Variables/Participation.md)  | Etudes sur les types et variables       |                  |
-| 4|19-10-09|[7.Strings](7.Strings/Participation.md)      | Etudes sur les chaines de caracteres    |                  |
-| 4|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)| Devoirs fin Unite 1                     |                  |
-
-
-
-
+| 3|19-09-25|[4.Variables](4.Variables/Participation.md)  | Etude sur les types et variables        |                  |
+| 4|19-10-09|[7.Strings](7.Strings/Participation.md)      | Etude sur les chaines de caracteres     |                  |
+| 5|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)| Devoirs fin Unite 1                     |                  |
+| 6|19-10-16|[8.Tuples](8.Tuples/Participation.md)        | Etude sur les tuples                    |                  |
+| 7|19-10-16|[9.Conditions](9.Conditions/Participation.md)| Etude sur la structure de controle      |                  |
 
 
 ## :two: Elements de Performance
 
 |No| Date   | Cours                    | Intitulé                                |  Commentaires     |
-|--|--------|:-------------------------|:----------------------------------------|:------------------|
-| 1|19-09-04|[0.GIT](0.GIT)            | Introduction a la programmation         |                   |
-| 2|19-09-11|[1.Python](1.Python)      | Python                                  |                   |
-| 3|19-09-18|[2.REPL](2.REPL)          | REPL et CLI                             | Chapitre 3        |
-| 4|19-09-25|[4.Variables](4.Variables)| Variables et expressions, basic types   | Chapitre 4, 5     |
-| 5|19-10-02|                          |  PreTest                                |                   |
-| 6|19-10-09|[7.Strings](7.Strings)    |                                         | Chapitre 7, 8     |
-| 7|19-10-16|[8.Tuples](8.Tuples)      |                                         | Chapitre 9, 10, 11|
-| 8|19-10-23| Autumn Break             |                                         |                   |
+|--|--------|:---------------------------|:----------------------------------------|:------------------|
+| 1|19-09-04|[0.GIT](0.GIT)              | Introduction a la programmation         |                   |
+| 2|19-09-11|[1.Python](1.Python)        | Python                                  |                   |
+| 3|19-09-18|[2.REPL](2.REPL)            | REPL et CLI                             | Chapitre 3        |
+| 4|19-09-25|[4.Variables](4.Variables)  | Variables et expressions, basic types   | Chapitre 4, 5     |
+| 5|19-10-02|                            |  PreTest                                |                   |
+| 6|19-10-09|[7.Strings](7.Strings)      |                                         | Chapitre 7, 8     |
+| 7|19-10-16|[8.Tuples](8.Tuples)        |                                         | Chapitre 9, 10, 11|
+| 8|19-10-23| Autumn Break               |                                         |                   |
 | 9|19-10-30|[9.Conditions](9.Conditions)|                                         |                   |
-|10|19-11-06|[6.Tree](6.Tree)          |                                         |                   |
-|11|19-11-13|[7.Essential](7.Essential)|                                         |                   |
-|12|19-11-20|[8.Class](8.Class)        |                                         |                   |
+|10|19-11-06|          |                                         |                   |
+|11|19-11-13| |                                         |                   |
+|12|19-11-20|        |                                         |                   |
 |13|19-11-27|                          |                                         |                   |
 |14|19-12-04|                          |                                         |                   |
 |15|19-12-11| Fin des cours            |                                         |                   |
