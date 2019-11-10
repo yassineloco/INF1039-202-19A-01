@@ -24,7 +24,7 @@ print(fruit.count('m'))
 
 # imprimer la chaine de caractere 'poire' en remplacant les letres dans fruit
 print (fruit.replace('mm', 'ir', )) 
-# iùprimer concatenation de 'Raptors' 'vs' 'Golden states warriors'
+# imprimer concatenation de 'Raptors' 'vs' 'Golden states warriors'
 concat = 'Raptors' + ' vs ' + 'Golden states warriors'
 print (concat)  
 
