@@ -1,9 +1,9 @@
-# Corrections 
+# Corrections au 13-11-2019 13:11
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300065026.py': [Errno 2] No such file or directory
+python: can't open file '300065026.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
@@ -27,14 +27,14 @@ Raptors vs Golden State Warrios
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300111824.py': [Errno 2] No such file or directory
+python: can't open file '300111824.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
+python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -93,17 +93,15 @@ raptorsvsgolden state warriors
 ('a', 2)
 ('a1', 2.5, False)
 3
-Traceback (most recent call last):
-  File "300116370.py", line 51, in <module>
-    print(len())
-TypeError: len() takes exactly one argument (0 given)
+0
+False
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116593.py': [Errno 2] No such file or directory
+python: can't open file '300116593.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -168,7 +166,7 @@ False
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
+python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -193,18 +191,10 @@ False
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-10
-15
-2
-poire
-Raptors vs  Golden State Warrors
-()
-(4, 5)
-('a', 2)
-('a1', 2.5, False)
-3
-0
-False
+Traceback (most recent call last):
+  File "300117314.py", line 1, in <module>
+    cd# -*- coding: utf-8 -*-
+NameError: name 'cd' is not defined
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -284,14 +274,14 @@ False
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117806.py': [Errno 2] No such file or directory
+python: can't open file '300117806.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
+python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
