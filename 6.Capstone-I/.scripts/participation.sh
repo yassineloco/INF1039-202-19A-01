@@ -33,7 +33,7 @@ ETUDIANTS=(
 300118524
 )
    
-echo "# Participation"
+echo "# Participation au `date +"%d-%m-%Y %H:%M"`"
 echo "\n## Légende\n"
 
 echo "| Signe              | Signification                 |"
