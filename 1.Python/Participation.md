@@ -1,4 +1,4 @@
-# Participation
+# Participation au 13-11-2019 13:05
 
 ## Légende
 
@@ -33,4 +33,4 @@
 | 20 | [300117864](300117864.py) | [:x:](Correction.md#etudiant-300117864) |
 | 21 | [300118075](300118075.py) | [:heavy_check_mark:](Correction.md#etudiant-300118075) |
 | 22 | [300118196](300118196.py) | [:heavy_check_mark:](Correction.md#etudiant-300118196) |
-| 23 | [300118524](300118524.py) | [:x:](Correction.md#etudiant-300118524) |
+| 23 | [300118524](300118524.py) | [:heavy_check_mark:](Correction.md#etudiant-300118524) |
