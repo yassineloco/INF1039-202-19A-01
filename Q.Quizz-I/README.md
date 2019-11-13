@@ -51,23 +51,26 @@ IndentationError: unexpected indent
 ```
 
 
-:one: Entrée/Sortie
+## :two: Variables
 
-| Type                 |  SQL                  | Format                   |
+##### :m: declaration :
+
+```python
+>>> x = 3
+```
+
+##### :m: types :
+
+```python
+>>> type(x)
+<class 'int'>
+```
+
+| Type                 |  Python               | Format                   |
 |----------------------|-----------------------|--------------------------|
-| Nombre               |INT, DOUBLE, FLOAT     | 1 - 10, 1.0 - 10.0       |  
-| Date                 | DATE                  | '1990-01-01'             |
-| booleen              | BOOLEAN               | True, False              |
-| Chaine de caracteres | VARCHAR(<size>), TEXT | '1', '2.6', '2009-12-02' |
-  
-:pushpin: Sortie: 
-
-| Option             | Description                                                  | 
-|--------------------|--------------------------------------------------------------|
-| AUTO_INCREMENT     | Omettre (N'apparait pas) dans le INSERT statement            |
-| NOT NULL           | Le champ ne peut etre nul sinon Erreur                       |
-| PRIMARY KEY        | :bulb: Peut etre placé ailleurs                              |
-| DEFAULT `<valeur>` | :question:                                                   |
+| Nombre               | int, float            | 1 - 10, 1.0 - 10.0       |  
+| Bouléen              | bool                  | True, False              |
+| Chaine de caracteres | str                   | '1', "2.6", '2009-12-02' |
 
 ##### :m: USER 
 
@@ -174,7 +177,7 @@ voir l'explication  [`INSERT AUTO_INCREMENT`](https://dev.mysql.com/doc/mysql-tu
 
 
 
-## :o2: MySQL Admin Commands
+## :o2: git Commands
 
 ##### :m: SHOW <artifacts>
     
