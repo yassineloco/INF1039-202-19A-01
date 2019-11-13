@@ -73,10 +73,10 @@ IndentationError: unexpected indent
 | Chaine de caracteres | str                   | '1', "2.6", '2009-12-02' |
 
 
-## :b: DCL
+## :b: Structure de données
 
 
-## :ab: DML
+## :ab: Structure de contrôle
 
 
 ## :o2: git Commands
