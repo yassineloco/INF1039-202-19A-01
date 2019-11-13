@@ -80,16 +80,35 @@ IndentationError: unexpected indent
 :pushpin: Variable
 
 ```python
-x = 3
+>>> x = 3
 ```
 
-:pushpin: Variable
+:pushpin: Tableau
+
+* str
 
 ```python
-x = 'Erna'
-
-print(x[0])
+>>> x = 'Erna'
 ```
+
+* afficher premier caractere
+
+```python
+>>> print(x[0])
+```python
+
+* fonction externe `longueur`
+
+```python
+>>> len(x)
+```python
+
+* fonction interne `capitalize`
+
+```python
+>>> print(x.capitalize())
+```python
+
 
 
 ## :ab: Structure de contrôle
