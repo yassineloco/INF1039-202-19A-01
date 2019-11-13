@@ -12,7 +12,7 @@
 |:hash:| Boréal :id:                | :100:              |
 |------|----------------------------|--------------------|
 | 1 | [300065026](300065026.py) | [:x:](Correction.md#etudiant-300065026) |
-| 2 | [300111441](300111441.py) | [:x:](Correction.md#etudiant-300111441) |
+| 2 | [300111441](300111441.py) | [:heavy_check_mark:](Correction.md#etudiant-300111441) |
 | 3 | [300111824](300111824.py) | [:x:](Correction.md#etudiant-300111824) |
 | 4 | [300114153](300114153.py) | [:x:](Correction.md#etudiant-300114153) |
 | 5 | [300115065](300115065.py) | [:heavy_check_mark:](Correction.md#etudiant-300115065) |
@@ -27,10 +27,10 @@
 | 14 | [300117314](300117314.py) | [:heavy_check_mark:](Correction.md#etudiant-300117314) |
 | 15 | [300117444](300117444.py) | [:heavy_check_mark:](Correction.md#etudiant-300117444) |
 | 16 | [300117705](300117705.py) | [:heavy_check_mark:](Correction.md#etudiant-300117705) |
-| 17 | [300117782](300117782.py) | [:x:](Correction.md#etudiant-300117782) |
+| 17 | [300117782](300117782.py) | [:heavy_check_mark:](Correction.md#etudiant-300117782) |
 | 18 | [300117784](300117784.py) | [:heavy_check_mark:](Correction.md#etudiant-300117784) |
-| 19 | [300117806](300117806.py) | [:x:](Correction.md#etudiant-300117806) |
+| 19 | [300117806](300117806.py) | [:heavy_check_mark:](Correction.md#etudiant-300117806) |
 | 20 | [300117864](300117864.py) | [:x:](Correction.md#etudiant-300117864) |
 | 21 | [300118075](300118075.py) | [:heavy_check_mark:](Correction.md#etudiant-300118075) |
 | 22 | [300118196](300118196.py) | [:heavy_check_mark:](Correction.md#etudiant-300118196) |
-| 23 | [300118524](300118524.py) | [:x:](Correction.md#etudiant-300118524) |
+| 23 | [300118524](300118524.py) | [:heavy_check_mark:](Correction.md#etudiant-300118524) |
