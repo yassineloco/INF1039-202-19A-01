@@ -3,17 +3,18 @@
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300065026.py': [Errno 2] No such file or directory
+python: can't open file '300065026.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-  File "300111441.py", line 16
-    
-    ^
-SyntaxError: EOF while scanning triple-quoted string literal
+2
+8
+x=4
+x=4
+5.12
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -30,7 +31,7 @@ IndentationError: expected an indented block
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
+python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -90,7 +91,7 @@ pair
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
+python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -129,30 +130,32 @@ an
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117782.py': [Errno 2] No such file or directory
+python: can't open file '300117782.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-  File "300117784.py", line 16
-    
-    ^
-SyntaxError: EOF while scanning triple-quoted string literal
+  File "300117784.py", line 13
+    else:
+       ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
+pair
+impair
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
+python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
@@ -175,6 +178,6 @@ le reste de la division est vrai
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300118524.py': [Errno 2] No such file or directory
+impair
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
