@@ -77,6 +77,20 @@ IndentationError: unexpected indent
 
 ## :b: Structure de données
 
+:pushpin: Variable
+
+```python
+x = 3
+```
+
+:pushpin: Variable
+
+```python
+x = 'Erna'
+
+print(x[0])
+```
+
 
 ## :ab: Structure de contrôle
 
