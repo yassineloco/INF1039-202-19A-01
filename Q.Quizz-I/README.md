@@ -119,6 +119,33 @@ IndentationError: unexpected indent
 
 ## :ab: Structure de contrôle
 
+:pushpin: Operateurs
+
+* Ordre des operateurs: `+- = GD, */ prioritaire et parenthese`
+
+* `+ -  * / // % **` Calcul
+
+:pushpin: Comparaison
+
+`>  >=  < !=`
+
+:pushpin: membre
+
+`in not in`
+
+:pushpin: logique
+
+`and or`
+
+:pushpin: logique
+
+`3> 2 ** 3 and 3 == 3`
+
+
+
+
+
+
 
 
 
