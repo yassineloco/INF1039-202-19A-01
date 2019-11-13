@@ -80,19 +80,77 @@ IndentationError: unexpected indent
 :pushpin: Variable
 
 ```python
-x = 3
+>>> x = 3
 ```
 
-:pushpin: Variable
+:pushpin: Tableau
+
+* str
 
 ```python
-x = 'Erna'
+>>> x = 'Erna'
+```
 
-print(x[0])
+* afficher premier caractere
+
+```python
+>>> print(x[0])
+```
+
+* fonction externe `longueur`
+
+```python
+>>> len(x)
+```
+
+* fonction interne `capitalize`
+
+```python
+>>> print(x.capitalize())
+```
+
+:pushpin: Tuple
+
+```python
+>>> x = ( "Corlings", 20, 5401.23)
 ```
 
 
-## :ab: Structure de contrôle
+
+## :ab: Structure de contrôle et decisions
+
+:m: Controle
+
+:pushpin: Operateurs
+
+* Ordre des operateurs: `+- = GD, */ prioritaire et parenthese`
+
+* `+ -  * / // % **` Calcul
+
+:pushpin: Comparaison
+
+`>  >=  < !=`
+
+:pushpin: membre
+
+`in not in`
+
+:pushpin: logique
+
+`and or`
+
+:pushpin: logique
+
+`3> 2 ** 3 and 3 == 3`
+
+:m: Decisions
+
+`if else: elif: `
+
+
+
+
+
 
 
 ## :o2: git Commands
