@@ -117,7 +117,9 @@ IndentationError: unexpected indent
 
 
 
-## :ab: Structure de contrôle
+## :ab: Structure de contrôle et decisions
+
+:m: Controle
 
 :pushpin: Operateurs
 
@@ -141,7 +143,9 @@ IndentationError: unexpected indent
 
 `3> 2 ** 3 and 3 == 3`
 
+:m: Decisions
 
+`if else: elif: `
 
 
 
