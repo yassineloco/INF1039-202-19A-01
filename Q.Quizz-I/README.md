@@ -81,7 +81,7 @@ IndentationError: unexpected indent
 
 ## :o2: git Commands
 
-##### :m: git <command>
+##### :m: git `<command>`
     
 ```
 $ git clone ...
