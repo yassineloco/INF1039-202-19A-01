@@ -34,7 +34,7 @@ Je suis un bloc de commentaires
 >>> print("")
 ```
 
-:pushpin: block :
+:pushpin: block : Indentation de 3 espaces
 
 ```python
 >>>    print("Indentation")
