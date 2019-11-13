@@ -95,23 +95,31 @@ IndentationError: unexpected indent
 
 ```python
 >>> print(x[0])
-```python
+```
 
 * fonction externe `longueur`
 
 ```python
 >>> len(x)
-```python
+```
 
 * fonction interne `capitalize`
 
 ```python
 >>> print(x.capitalize())
+```
+
+:pushpin: Tuple
+
 ```python
+>>> x = ( "Corlings", 20, 5401.23)
+```
 
 
 
 ## :ab: Structure de contrôle
+
+
 
 
 ## :o2: git Commands
