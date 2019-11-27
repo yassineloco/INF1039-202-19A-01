@@ -29,8 +29,8 @@ Introduction a la programmation
 | 8|19-10-23| Autumn Break               |                                         |                   |
 | 9|19-10-30|[9.Conditions](9.Conditions)|                                         | Chapitre 13       |
 |10|19-11-06|[B.Decisions](B.Decisions)  |                                         | Chapitre 14       |
-|11|19-11-13|                            |                                         |                   |
-|12|19-11-20|                            |                                         |                   |
+|11|19-11-13|[Q.Quizz-I](Q.Quizz-I)      |                                         |                   |
+|12|19-11-20|                            |                                         | Test              |
 |13|19-11-27|[C.Loops](C.Loops)          |                                         | Chapitre 16       |
 |14|19-12-04|                            |                                         |                   |
 |15|19-12-11| Fin des cours              |                                         |                   |
