@@ -33,7 +33,7 @@ ETUDIANTS=(
 300118524
 )
    
-echo "# Corrections "
+echo "# Corrections au `date +"%d-%m-%Y %H:%M"`"
 
 for id in "${ETUDIANTS[@]}"
 do

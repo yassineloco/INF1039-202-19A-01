@@ -1,4 +1,4 @@
-# Participation
+# Participation au 13-11-2019 13:07
 
 ## Légende
 
@@ -18,7 +18,7 @@
 | 5 | [300115065](300115065.py) | [:heavy_check_mark:](Correction.md#etudiant-300115065) |
 | 6 | [300115140](300115140.py) | [:heavy_check_mark:](Correction.md#etudiant-300115140) |
 | 7 | [300116370](300116370.py) | [:heavy_check_mark:](Correction.md#etudiant-300116370) |
-| 8 | [300116593](300116593.py) | [:x:](Correction.md#etudiant-300116593) |
+| 8 | [300116593](300116593.py) | [:heavy_check_mark:](Correction.md#etudiant-300116593) |
 | 9 | [300116670](300116670.py) | [:heavy_check_mark:](Correction.md#etudiant-300116670) |
 | 10 | [300116685](300116685.py) | [:heavy_check_mark:](Correction.md#etudiant-300116685) |
 | 11 | [300116973](300116973.py) | [:heavy_check_mark:](Correction.md#etudiant-300116973) |
@@ -29,8 +29,8 @@
 | 16 | [300117705](300117705.py) | [:heavy_check_mark:](Correction.md#etudiant-300117705) |
 | 17 | [300117782](300117782.py) | [:heavy_check_mark:](Correction.md#etudiant-300117782) |
 | 18 | [300117784](300117784.py) | [:heavy_check_mark:](Correction.md#etudiant-300117784) |
-| 19 | [300117806](300117806.py) | [:x:](Correction.md#etudiant-300117806) |
+| 19 | [300117806](300117806.py) | [:heavy_check_mark:](Correction.md#etudiant-300117806) |
 | 20 | [300117864](300117864.py) | [:x:](Correction.md#etudiant-300117864) |
 | 21 | [300118075](300118075.py) | [:heavy_check_mark:](Correction.md#etudiant-300118075) |
 | 22 | [300118196](300118196.py) | [:heavy_check_mark:](Correction.md#etudiant-300118196) |
-| 23 | [300118524](300118524.py) | [:x:](Correction.md#etudiant-300118524) |
+| 23 | [300118524](300118524.py) | [:heavy_check_mark:](Correction.md#etudiant-300118524) |
