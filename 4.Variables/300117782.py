@@ -15,3 +15,10 @@ print (s)
 
 print( s[0])
 
+# afficher le caractere i
+
+print ( s [6])
+
+# afficher la chaine de caractere ai 
+
+print (s [5:8:2])
