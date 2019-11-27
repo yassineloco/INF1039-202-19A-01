@@ -1,30 +1,52 @@
-# Corrections 
+# Corrections au 13-11-2019 13:16
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300065026.py': [Errno 2] No such file or directory
+python: can't open file '300065026.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300111441.py': [Errno 2] No such file or directory
+5
+6
+2
+3.5
+1
+3
+256
+True
+True
+False
+False
+False
+True
+False
+True
+True
+False
+True
+False
+False
+True
+False
+pair
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300111824.py': [Errno 2] No such file or directory
+python: can't open file '300111824.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
+python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -45,14 +67,14 @@ entrer un nombrepositif
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116370.py': [Errno 2] No such file or directory
+entrer un nombre: x est positif
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116593.py': [Errno 2] No such file or directory
+python: can't open file '300116593.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -73,14 +95,14 @@ le test est vrai !
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116973.py': [Errno 2] No such file or directory
+python: can't open file '300116973.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
+python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -94,14 +116,14 @@ ENTRER UN NOMRE: positif
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117314.py': [Errno 2] No such file or directory
+python: can't open file '300117314.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117444.py': [Errno 2] No such file or directory
+python: can't open file '300117444.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -115,7 +137,8 @@ entrer un nombrepositif
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117782.py': [Errno 2] No such file or directory
+pair
+ok
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -129,20 +152,22 @@ entrer un nombre:positif
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
+pair
+ok
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
+python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
 ## Etudiant 300118075 
 ###  =[BEGIN]============== Exécution du script 300118075 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300118075.py': [Errno 2] No such file or directory
+entrer un nombre:positif
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
 
@@ -161,6 +186,6 @@ de plus, il s'agit d'un nombre impaire
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300118524.py': [Errno 2] No such file or directory
+Entrer votre nombre pour vérification: votre nombre est positif
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 

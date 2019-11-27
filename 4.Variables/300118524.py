@@ -1,57 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Nov  6 13:54:55 2019
+Created on Mon Nov 11 16:51:28 2019
 
 @author: zoureni
 """
 
-who = 'me myself and me'
-#imprimer la position de 'and' dans la chaine de caractere who
+x = 1
+print(2 * x)
 
-print( who.find("et"))
+# Integer
+x = 6
+print(2 * x)
+if (x == 6):
+    print('x = 6')
+    print('ok')
+else:
+    print('on ne sait pas')
 
-#imprimer la longueur de la chaine de caractère who
+# String
+a = 'x = 6'
+print( a ) 
 
-print( len(who))
-
-fruit= 'pomme'
-
-#imprimer le nombre de fois de caractère 'm' apparaît dans le fruit
-
-print(fruit.count('m'))
-
-#imprimer la chaîne de caractère 'poire' en remplacant les lettres dans fruit
-
-print(fruit.replace('mm','ir'))
-
-#imprimer la concatenation de 'Raptors' 'vs' 'Golden State Warriors'
-
-concat = 'Raptors' + ' vs ' + 'Golden State Warriors'
-
-print( concat)
-
-#Tuple t1 vide
-t1 = ()
-print( t1 )
-
-#Tuple t2 une paire de meme type
-t2 = (4 , 5)
-print( t2 )
-
-#Tuple t3 une paire de type différent
-t3 = ('a', 2)
-print( t3 )
-
-#Tuple t4 un trio de type différents
-t4 = ('a1', 2.5, False )
-print( t4 )
-
-#imprimer la longueur de t4
-print(len( t4 ))
-
-#imprimer la longueur d'un tuple vide
-print(len(()))
-
-#imprimer la valeur de t4 à l'index 2
-print([2])
+# Double
+d = 4.35
+print(2 * d)
