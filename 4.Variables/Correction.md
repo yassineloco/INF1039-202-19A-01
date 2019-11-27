@@ -1,40 +1,46 @@
-# Corrections 
+# Corrections au 13-11-2019 13:03
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300065026.py': [Errno 2] No such file or directory
+python: can't open file '300065026.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300111441.py': [Errno 2] No such file or directory
+2
+8
+x=4
+x=4
+5.12
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300111824.py': [Errno 2] No such file or directory
+python: can't open file '300111824.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
+python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-  File "300115065.py", line 3
-    Type Inference
-                 ^
-SyntaxError: invalid syntax
+2
+12
+x = 6
+ok
+x = 6
+8.7
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -86,7 +92,7 @@ x = 4
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116685.py': [Errno 2] No such file or directory
+python: can't open file '300116685.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -105,7 +111,7 @@ x = 4
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
+python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -154,7 +160,8 @@ ok
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117782.py': [Errno 2] No such file or directory
+ma chaine
+m
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -171,14 +178,16 @@ x = 4
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117806.py': [Errno 2] No such file or directory
+m
+i
+an
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
+python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
@@ -205,6 +214,11 @@ x = 4
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300118524.py': [Errno 2] No such file or directory
+2
+12
+x = 6
+ok
+x = 6
+8.7
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 
