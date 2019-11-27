@@ -31,7 +31,7 @@ Introduction a la programmation
 |10|19-11-06|[B.Decisions](B.Decisions)  |                                         | Chapitre 14       |
 |11|19-11-13|                            |                                         |                   |
 |12|19-11-20|                            |                                         |                   |
-|13|19-11-27|[C.Loops](C.Loops)          |                                         |                   |
+|13|19-11-27|[C.Loops](C.Loops)          |                                         | Chapitre 16       |
 |14|19-12-04|                            |                                         |                   |
 |15|19-12-11| Fin des cours              |                                         |                   |
 
