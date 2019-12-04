@@ -4,9 +4,7 @@
 
 #ecrire le variable a l'entrer
 NOM1 = input('nom prenom:')
-#2e variable a l'entrer
 NOM2 = input('nom prenom:')
-#3e variable a l'entrer
 
 
 #choisir les variables ou caracteres
