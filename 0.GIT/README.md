@@ -2,7 +2,7 @@
 
 Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 
-<image src="staging.png" width="1160" height="680"></image>
+<image src="staging.png" width="580" height="340"></image>
 
 
 # Participation
