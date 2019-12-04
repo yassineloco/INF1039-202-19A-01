@@ -8,5 +8,17 @@ Created on Wed Dec  4 13:56:15 2019
 def f(x):
     y =x+1
     return y
-print(f(1))  
+print(f(1))
+
+
+i = 1
+
+while(1 < 10):
+    print(i+10)
+    
+    
+        
+        
+        
+        
   
