@@ -4,13 +4,13 @@ Spyder Editor
 
 This is a temporary script file.
 """
+import math
 def f (x):
     return x + 1
 print(f(1))
 
-# creer un while
+
 i = 1
-while(i <= 10):
-    print(i)
+while i < 10:
+    print(math.sqrt(f(i)))
     i = i + 1
-    

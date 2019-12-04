@@ -17,3 +17,10 @@ i=1
 while (i < 10):
     i=i+1
     print(f(i))
+    
+    
+    #Racine carre 
+    
+    
+    print(f(i) **0.5)
+    
