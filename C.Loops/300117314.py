@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Nov 27 16:13:44 2019
+
+@author: 10
+"""
+
+for v in range(3):
+    print ("var v is" ,v)
+    
+    
+    
