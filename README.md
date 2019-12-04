@@ -33,7 +33,7 @@ Introduction a la programmation
 |11|19-11-13|[Q.Quizz-I](Q.Quizz-I)      |                                         |                   |
 |12|19-11-20|                            |                                         | Test              |
 |13|19-11-27|[C.Loops](C.Loops)          |                                         | Chapitre 16       |
-|14|19-12-04|                            |                                         |                   |
+|14|19-12-04|[D.Functions](D.Functions)  |  Funtions et Librairies                 | Chapitre 21, 35   |
 |15|19-12-11| Fin des cours              |                                         |                   |
 
 
