@@ -2,11 +2,19 @@
 """
 Created on Wed Dec  4 14:26:20 2019
 
-@author: User
+@author: 300117806
 """
 
 def f(x):
    return  x + 1
     
 print (f(1))    
+
+#Creation de boucle avec while
     
+i=0
+
+while i < 10:
+    print ("imprimer de 1 a 10")
+    
+    i = i + 1
