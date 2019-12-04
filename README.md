@@ -5,14 +5,15 @@ Introduction a la programmation
 ## :one: [Devoirs](Devoirs)
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
 |--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
-| 1|19-09-18|[0.GIT](0.GIT#Participation)                    | Mon premier compte sur github .         |                  |
-| 2|19-09-11|[1.Python](1.Python/Participation.md)           | Mon premier programme en Python         |                  |
-| 3|19-09-25|[4.Variables](4.Variables/Participation.md)     | Etude sur les types et variables        |                  |
-| 4|19-10-09|[7.Strings](7.Strings/Participation.md)         | Etude sur les chaines de caracteres     |                  |
-| 5|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)   | Devoirs fin Unite 1                     |                  |
-| 6|19-10-16|[8.Tuples](8.Tuples/Participation.md)           | Etude sur les tuples                    |                  |
-| 7|19-10-30|[9.Conditions](9.Conditions/Participation.md)   | Etude sur la structure de controle      |                  |
-| 5|19-11-13|[A.Capstone-II](A.Capstone-II/Participation.md) | Devoirs fin Unite 2                     |                  |
+|01|19-09-18|[0.GIT](0.GIT#Participation)                    | Mon premier compte sur github .         |                  |
+|02|19-09-11|[1.Python](1.Python/Participation.md)           | Mon premier programme en Python         |                  |
+|03|19-09-25|[4.Variables](4.Variables/Participation.md)     | Etude sur les types et variables        |                  |
+|04|19-10-09|[7.Strings](7.Strings/Participation.md)         | Etude sur les chaines de caracteres     |                  |
+|05|19-10-16|[6.Capstone-I](6.Capstone-I/Participation.md)   | Devoirs fin Unite 1                     |                  |
+|06|19-10-16|[8.Tuples](8.Tuples/Participation.md)           | Etude sur les tuples                    |                  |
+|07|19-10-30|[9.Conditions](9.Conditions/Participation.md)   | Etude sur la structure de controle      |                  |
+|08|19-11-13|[A.Capstone-II](A.Capstone-II/Participation.md) | Devoirs fin Unite 2                     |                  |
+|09|19-12-04|[C.Loops](C.Loops/Participation.md)             | Etude sur les boucles .                 |                  |
 
 
 ## :two: Elements de Performance
