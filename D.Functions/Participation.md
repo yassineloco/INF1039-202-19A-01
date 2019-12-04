@@ -1,10 +1,10 @@
 # Participation au 04-12-2019 15:11
-\n## Légende\n
+## Légende
 | Signe              | Signification                 |
 |--------------------|-------------------------------|
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
-\n## Résultat\n
+## Résultat
 |:hash:| Boréal :id:                | :100:              |
 |------|----------------------------|--------------------|
 | 1 | [300065026](300065026.py) | [:x:](Correction.md#etudiant-300065026) |
