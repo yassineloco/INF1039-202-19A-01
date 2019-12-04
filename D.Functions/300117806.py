@@ -15,6 +15,7 @@ print (f(1))
 i=0
 
 while i < 10:
-    print ("imprimer de 1 a 10")
+    print(f(i))
     
     i = i + 1
+    
