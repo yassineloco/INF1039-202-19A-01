@@ -19,3 +19,15 @@ while i <=10:
    
     
     print (i,)
+
+#la racine carre du resultat de la fonction  
+
+
+x = 0
+
+
+while x <=10:
+    
+    x = x + 1
+    from math import sqrt
+    print(sqrt(f(x)))
