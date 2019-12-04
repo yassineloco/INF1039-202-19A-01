@@ -16,4 +16,6 @@ while (a <= 10):
    print(f(a)) 
    a=a+1
    
-   
+#Imprimez racine de carre f(a)
+
+print(f(a)** 0.5)    
