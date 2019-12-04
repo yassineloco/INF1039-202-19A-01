@@ -1,9 +1,14 @@
-# Corrections au 13-11-2019 13:03
+# Corrections au 04-12-2019 09:23
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-python: can't open file '300065026.py': [Errno 2] No such file or directory
+2
+12
+x = 6
+ok
+x = 6
+8.7
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
@@ -21,14 +26,19 @@ x=4
 ## Etudiant 300111824 
 ###  =[BEGIN]============== Exécution du script 300111824 =============== 
 ```
-python: can't open file '300111824.py': [Errno 2] No such file or directory
+2
+8
+x = 4
+ok
+x = 4
+5.12
 ```
 ###  =[END]============== Exécution du script 300111824 =============== 
 
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-python: can't open file '300114153.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -47,12 +57,8 @@ x = 6
 ## Etudiant 300115140 
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
-2
-8
-x = 4
-x = 4
-x = 4
-5.12
+  File "300115140.py", line 1
+SyntaxError: Non-ASCII character '\xc3' in file 300115140.py on line 1, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
@@ -92,7 +98,8 @@ x = 4
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-python: can't open file '300116685.py': [Errno 2] No such file or directory
+  File "300116685.py", line 2
+SyntaxError: Non-ASCII character '\xc3' in file 300116685.py on line 2, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -111,7 +118,7 @@ x = 4
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-python: can't open file '300117029.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -162,6 +169,8 @@ ok
 ```
 ma chaine
 m
+i
+an
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -187,7 +196,7 @@ an
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-python: can't open file '300117864.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 

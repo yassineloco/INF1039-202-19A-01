@@ -1,9 +1,11 @@
-# Corrections au 13-11-2019 13:05
+# Corrections au 04-12-2019 09:23
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
 ```
-python: can't open file '300065026.py': [Errno 2] No such file or directory
+ma chaine
+m
+an
 ```
 ###  =[END]============== Exécution du script 300065026 =============== 
 
@@ -31,7 +33,7 @@ IndentationError: expected an indented block
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-python: can't open file '300114153.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -91,7 +93,7 @@ pair
 ## Etudiant 300117029 
 ###  =[BEGIN]============== Exécution du script 300117029 =============== 
 ```
-python: can't open file '300117029.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117029.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117029 =============== 
 
@@ -130,7 +132,11 @@ an
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-python: can't open file '300117782.py': [Errno 2] No such file or directory
+2
+8
+x = 4 
+ x = 4 
+5.12
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
@@ -155,7 +161,7 @@ impair
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-python: can't open file '300117864.py': [Errno 2] No such file or directory
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 
