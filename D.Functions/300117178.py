@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import math
 """
 Created on Wed Dec  4 11:09:15 2019
 
@@ -10,5 +11,6 @@ def f(x):
 i=0
 while(i<10):
     i=i+1
-    print(f(i))
+    print(math.sqrt(i))
+    
 
