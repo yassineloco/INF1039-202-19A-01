@@ -17,10 +17,10 @@ Created on Sun Nov 10 15:24:38 2019
 # ce programme permet de melanger deux prenoms et deux noms
 
 # afficher une variable ayant pour nom'lauren bacale'
-name1 = 'lauren bacale'
+name1 = 'pascal siakam'
 
 # afficher une variable ayant pour nom'richard simone'
-name2 ='richard simone'
+name2 ='serge ibaka'
 
 # entrer le nom de la variable
 name1 = input('entrer prenom et nom: ')
@@ -41,10 +41,6 @@ r3 = (name2[0:3] + name1[3:6])
 r4 = (name2[8:11] + name1[10:14])
 
 # imprimer en premier lieu noms et prenoms melanges separemment
-print(r1)
-print(r2)
-print(r3)
-print(r4)
 
 # imprimer nom et prenom dans une meme ligne
 print( r1,r2)
