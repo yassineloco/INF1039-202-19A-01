@@ -13,9 +13,11 @@ print ( f (1))
 
 z = 1
 
-while ( z<10 ):
+while ( z<=10 ):
     
     print ( f (z))
     z = z + 1
+    
 
+print ( f(z)  ** 0,5)
 
