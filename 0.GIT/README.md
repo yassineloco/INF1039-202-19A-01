@@ -2,6 +2,8 @@
 
 Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 
+<image src="" width="200" height="200"></image>
+
 
 # Participation
 
