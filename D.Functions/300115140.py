@@ -18,3 +18,25 @@ while i < 10:
     print ( f(i))
     i = i + 1
     
+    
+# imprimer la racine carre de la fonction de 1 a 10
+    
+
+import math
+
+def f(x):
+    return x*2
+
+print(f(1),'\n')
+
+print("racines f(x)\n")
+
+x, y = 0, 1   
+while x<=10:
+    x= x+1
+    y = f(x)
+    
+#dtrouver la valeur des racines carr/es de 0 a 10
+    print("le nombre ", x,'*', 2, 'equivaut en racine carré',math.sqrt(f(x)))
+      
+    
