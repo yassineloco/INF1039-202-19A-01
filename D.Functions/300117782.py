@@ -10,3 +10,12 @@ def f ( x ):
     
 print ( f (1))
 
+
+z = 1
+
+while ( z<10 ):
+    
+    print ( f (z))
+    z = z + 1
+
+
