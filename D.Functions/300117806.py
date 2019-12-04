@@ -19,3 +19,18 @@ while i < 10:
     
     i = i + 1
     
+    
+    
+   #creation de boucle avec racine carree de 1 a 10
+
+import math
+
+def f(x):
+    return x + 1
+i =1
+while i < 10:
+    print(math.sqrt(f(i)))
+    i = i + 1
+
+
+    
