@@ -13,6 +13,7 @@ while i <=10 :   # tant que i est inferieur a zero
         
 i = 1
 while i < 10 :  # tant que i est inferieur a zero
+    i= i+1
     
     print(math.sqrt(f(i)))  # imprimer la valeur de i
-    i= i+1
+   
